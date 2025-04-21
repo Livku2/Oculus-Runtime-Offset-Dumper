@@ -1,2 +1,1 @@
-# Oculus-Runtime-Offset-Dumper
-IDK I'll make this tomorrow or something
+https://github.com/Livku2/Android-Runtime-Il2Cpp-Dumper
